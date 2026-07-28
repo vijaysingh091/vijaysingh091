@@ -82,7 +82,7 @@ Business Intelligence solution for monitoring:
 
 **Tech Stack**
 
-Python • SQL • PostgreSQL • Power BI
+Python • SQL • PostgreSQL • Power BI • Pyspark 
 
 ---
 
