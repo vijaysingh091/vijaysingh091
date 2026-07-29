@@ -73,7 +73,7 @@ I enjoy solving real-world business problems using data and continuously learnin
 
 ## 📚 Currently Learning
 
-Apache Spark • PySpark • AWS • Data Engineering • Apache Airflow • Docker • Workflow Automation
+Apache Spark • AWS • Data Engineering • Apache Airflow • Docker • Workflow Automation
 
 # 📈 GitHub Stats
 
