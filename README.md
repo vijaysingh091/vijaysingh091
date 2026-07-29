@@ -41,19 +41,19 @@ I enjoy solving real-world business problems using data and continuously learnin
 ### 💻 Previous Experience
 
 **Data Analyst | CreditSea**  
-ETL Pipelines • REST API Integration • SQL & Python • Customer Behaviour Analysis • Collections Analytics • KPI & Funnel Reporting • Dashboard Development • Reporting Automation • Agent Performance Analytics • ML-based Customer Segmentation
+• ETL Pipelines • REST API Integration • SQL & Python • Customer Behaviour Analysis • Collections Analytics • KPI & Funnel Reporting • Dashboard Development • Reporting Automation • Agent Performance Analytics • ML-based Customer Segmentation
 
 **Data Analyst Intern | Primus Partners**  
-API Integrations • CRM Data Automation • SQL & Python • Dashboard Development • Business Reporting • Data Analysis
+• API Integrations • CRM Data Automation • SQL & Python • Dashboard Development • Business Reporting • Data Analysis
 
 **Research Intern | NIT Silchar**  
-Healthcare Analytics • Statistical Analysis • Regression Models • ECG Anomaly Detection • Python
+• Healthcare Analytics • Statistical Analysis • Regression Models • ECG Anomaly Detection • Python
 
 **Analytics Intern | C-DAC Noida**  
-Python Analytics • SQL Reporting • Dashboard Automation • Data Processing
+• Python Analytics • SQL Reporting • Dashboard Automation • Data Processing
 
 **Operations Analytics Intern | Indian Railways**  
-Operational Analytics • SQL Reporting • Process Monitoring • Performance Reporting
+• Operational Analytics • SQL Reporting • Process Monitoring • Performance Reporting
 
 ## 🛠 Tech Stack
 
