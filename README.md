@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vijay Bhushan Singh</h1>
+<h1 align="center">Hi , I'm Vijay Bhushan Singh</h1>
 
 <h3 align="center">
 Data Analyst | Python • SQL • Power BI • PostgreSQL • ETL • PySpark
@@ -75,51 +75,6 @@ I enjoy solving real-world business problems using data and continuously learnin
 - Operational analytics
 - SQL reporting
 - Process monitoring
-
----
-
-# 🚀 Featured Projects
-
-## 📈 Loan Portfolio Analytics
-
-Business Intelligence solution for monitoring:
-
-- Collection Efficiency
-- Delinquency Rates
-- Agent Performance
-- DPD Buckets
-- Portfolio Health
-
-**Tech Stack**
-
-Python • SQL • PostgreSQL • Power BI • Pyspark 
-
----
-
-## ☎ Tata Tele API ETL Pipeline
-
-Designed and implemented an automated ETL pipeline that extracts daily CDR data from Tata Tele Business Services APIs and stores it in PostgreSQL for business analytics.
-
-**Tech Stack**
-
-Python • REST APIs • PostgreSQL • ETL
-
----
-
-## 🏦 Bank Statement OCR Analytics
-
-Developed an OCR and Machine Learning pipeline capable of converting bank statements into structured JSON while extracting:
-
-- Beneficiary Details
-- Transaction Patterns
-- UPI Numbers
-- Customer Relationships
-
----
-
-## 📊 Sales Performance Analytics
-
-Built analytical dashboards and forecasting models for revenue analysis using Python, SQL and Power BI.
 
 ---
 
