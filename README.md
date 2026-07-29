@@ -57,62 +57,23 @@ I enjoy solving real-world business problems using data and continuously learnin
 
 ## 🛠 Tech Stack
 
-### Languages
+**Languages:** Python • SQL • C++
 
-- Python
-- SQL
-- C++
+**Libraries & Frameworks:** Pandas • NumPy • Scikit-learn • PySpark
 
-### Libraries
+**Databases:** PostgreSQL • MySQL • SQL Server • SQLite
 
-- Pandas
-- NumPy
-- Scikit-Learn
-- PySpark
+**Business Intelligence:** Power BI • Tableau • Looker Studio • Metabase
 
-### Databases
+**Data Engineering:** ETL Pipelines • REST APIs • Data Cleaning • Data Validation • Data Transformation
 
-- PostgreSQL
-- MySQL
-- SQL Server
-- SQLite
-
-### Business Intelligence
-
-- Power BI
-- Tableau
-- Looker Studio
-- Metabase
-
-### Data Engineering
-
-- ETL Pipelines
-- REST APIs
-- Data Cleaning
-- Data Validation
-- Data Transformation
-
-### Tools
-
-- Git
-- GitHub
-- Docker
-- VS Code
-- DBeaver
-- Jupyter Notebook
+**Tools:** Git • GitHub • Docker • VS Code • DBeaver • Jupyter Notebook
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-- Apache Spark
-- PySpark
-- AWS
-- Docker
-- Data Engineering
-- Workflow Automation
-
----
+Apache Spark • PySpark • AWS • Data Engineering • Apache Airflow • Docker • Workflow Automation
 
 # 📈 GitHub Stats
 
