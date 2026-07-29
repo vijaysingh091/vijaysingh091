@@ -41,14 +41,7 @@ I enjoy solving real-world business problems using data and continuously learnin
 ### 💻 Previous Experience
 
 **Data Analyst Intern — CreditSea**
-- ETL Pipeline Development- 
-- REST API Integration
-- Customer Behaviour Analysis
-- Collections Analytics
-- KPI & Funnel Reporting
-- Reporting Automation
-- Agent Performance Analytics
-- Machine Learning-Based Customer Segmentation
+- ETL Pipeline Development - REST API Integration - Customer Behaviour Analysis - Collections Analytics - KPI & Funnel Reporting - Reporting Automation - Agent Performance Analytics - Machine Learning-Based Customer Segmentation
 
 **Data Analyst Intern — Primus Partners**
 
