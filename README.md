@@ -25,7 +25,7 @@ I enjoy solving real-world business problems using data and continuously learnin
 ### 📊 Data Analyst | CreditSea
 
 - Built automated ETL pipelines using Python, REST APIs, and PostgreSQL.
-- Integrated Tata Tele Business APIs for daily collection call records.
+- Integrated APIs for daily collection call records.
 - Developed Power BI dashboards for:
   - Collections
   - Fresh Funnel
